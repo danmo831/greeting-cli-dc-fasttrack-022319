@@ -2,5 +2,5 @@
 
 def greeting(name)
   cleaned_name = name.strip
-  "Hello #{name}. It's nice to meet you."
+  "Hello #{cleaned_namename}. It's nice to meet you."
 end
